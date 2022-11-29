@@ -1,3 +1,8 @@
+# movies-list-using-api
+
+Creating an interface that displays a list of movies, searches and shows movie details.
+Using the omdb api. React router. 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
